@@ -7,7 +7,7 @@ const Header = () => {
         <div className="container">
         <div className="header-container d-flex align-items-center justify-content-between">
             <div className="logo">
-            <h1 className="text-light"><a href="index.html"><span>Bethany</span></a></h1>
+            <h1 className="text-light"><a href="index.html"><span>अतुल्य सोनभद्र</span></a></h1>
             {/* <!-- Uncomment below if you prefer to use an image logo --> */}
             {/* <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" className="img-fluid"></a>--> */}
             </div>
